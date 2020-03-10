@@ -6,10 +6,10 @@
 *Age:* 23
 
 ### Interests
-..*DnD
-..*Programing
-..*Video Games
-..*Paintball
+..* DnD
+..* Programing
+..* Video Games
+..* Paintball
 
 ### Favorites
 ..1. Pineapple
