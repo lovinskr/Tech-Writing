@@ -8,9 +8,9 @@
 ### Interests
 
 * DnD
-..* Programing
-..* Video Games
-..* Paintball
+  * Programing
+  * Video Games
+  * Paintball
 
 ### Favorites
 
