@@ -6,13 +6,15 @@
 *Age:* 23
 
 ### Interests
-..* DnD
+
+* DnD
 ..* Programing
 ..* Video Games
 ..* Paintball
 
 ### Favorites
-..1. Pineapple
+
+1. Pineapple
 ..2. Magic
 ..3. M1A4 Sherman Medium Tank
 
