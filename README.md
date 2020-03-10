@@ -25,6 +25,14 @@
 [Youtube.com](https://www.youtube.com)
 ___
 
+#### Code
+``` java
+public static void main()
+{
+  System.out.println("Hello, World");
+}
+```
+
 #### Things
 `This is a type of thing`
 
