@@ -1,5 +1,5 @@
 # About me
-
+---
 ![My Face](https://github.com/lovinskr/Tech-Writing/blob/master/face.jpg)
 
 
@@ -23,7 +23,7 @@
 
 ### Most Visited Site
 [Youtube.com](https://www.youtube.com)
-
+___
 
 #### Things
 `This is a type of thing`
@@ -40,11 +40,14 @@ with multiple lines
 |row2|----|----|
 
 ###### The rest
-> This is a long multiline quote
+> This is a long quote
 > about something very important
 
----
-***
-___
+this isnt
 
-<a href="https://www.youtube.com/watch?v=IJl3Q9OakMg" alt="This is alt text" />
+>This is another quote
+
+***
+
+
+<a href="https://www.youtube.com/watch?v=IJl3Q9OakMg"><img src="https://github.com/lovinskr/Tech-Writing/blob/master/face.jpg" alt="This is alt text" /></a>
