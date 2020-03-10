@@ -28,8 +28,10 @@
 #### Things
 `This is a type of thing`
 
-```This is a block of things
-with multiple lines```
+```
+This is a block of things
+with multiple lines
+```
 
 ##### Tables
 |    |col1|col2|
